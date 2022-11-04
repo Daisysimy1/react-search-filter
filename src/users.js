@@ -59,4 +59,16 @@ export const Users = [
       "email": "gjonas9@typepad.com",
       "skills": "Typing data entry",
     },
+    {
+      "id": 11,
+      "full_name": "Rita Dominic",
+      "email": "ritadominic@washington.edu",
+      "skills": "Mechanic"
+   , },
+    {
+      "id": 12,
+      "full_name": "Amina Amhed",
+      "email": "aminaamhed8@sina.com.cn",
+      "skills": "Singer",
+    },
   ]

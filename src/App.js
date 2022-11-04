@@ -13,7 +13,8 @@ import "./app.css";
 
    return (
      <div className='app'>
-        <input type='text' placeholder='Search for skills...' className='search' onChange={(e) => setQuery(e.target.value)} />
+        <h1>Some of the skills set we have are:</h1>
+        <input type='text' placeholder='Search for skills available...' className='search' onChange={(e) => setQuery(e.target.value)} />
         <Table data={search(Users)} />
         
      </div>
